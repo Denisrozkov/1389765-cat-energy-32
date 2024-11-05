@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Лиза Давыдова](https://up.htmlacademy.ru/adaptive/32/user/1389765).
-* Наставник: [Валера Хаслер](https://htmlacademy.ru/profile/id224163).
+* Наставник: [Вася Пупкин](https://i.pinimg.com/originals/30/a0/2b/30a02b9d7517d5b27803c8180d8123c6.jpg).
 
 ---
 
